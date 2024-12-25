@@ -1,0 +1,59 @@
+body{
+    background: black;
+}
+h3{
+    display: contents;
+    font-size: 36px;
+}
+button#Menu{
+    display: block;
+    position: relative;
+    left: 200px;
+    top: 17px;
+    width: 170px;
+}
+button#Location{
+    display: block;
+    position: relative;
+    left: 200px;
+    top: -17px;
+    width: 170px;
+}
+button#Services{
+    display: block;
+    position: relative;
+    left: 200px;
+    top: -94px;
+    width: 170px;
+}
+button#Contact{
+    display: block;
+    position: relative;
+    left: 200px;
+    top: -214px;
+    width: 170px;
+}
+button#Offers{
+    display: block;
+    position: relative;
+    left: 200px;
+    top: -374px;
+    width: 170px;
+}
+h2 {
+    display: block;
+    position: absolute;
+    top: -7px;
+}
+.item-name {
+    display: block;
+    position: relative;
+    top: 46px;
+    left: 136px;
+}
+.item-price {
+    display: block;
+    position: relative;
+    top: 26.5px;
+    left: 270px;
+}
