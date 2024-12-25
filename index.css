@@ -1,0 +1,92 @@
+
+body{
+    background: #00ff7f;
+}
+h3 {
+  display: flex;
+  font-family: monospace;
+  font-size: 50px;
+  font-style: italic;
+  font-variant: petite-caps;
+  font-weight: 100;
+  font-family: system-ui;
+  position: relative;
+  top: 145px;
+  left: 36px;
+  color: red;
+}
+button#Menu {
+  display: block;
+  position: fixed;
+  left: 600px;
+  font-size: 20px;
+  font-family: serif;
+  padding: 0px 0px;
+  border: 0.1px solid red;
+  width: 210px;
+  color: red;
+  height: 33px;
+  text-align: center;
+  margin: 8px 0px;
+  cursor: pointer;
+}
+button#Location {
+  display: block;
+  position: fixed;
+  left: 600px;
+  font-size: 20px;
+  font-family: serif;
+  padding: 0px 0px;
+  border: 0.1px solid red;
+  width: 210px;
+  height: 33px;
+  color: red;
+  text-align: center;
+  margin: 51px 0px;
+  cursor: pointer;
+}
+button#Services {
+  display: block;
+  position: fixed;
+  left: 600px;
+  font-size: 20px;
+  font-family: serif;
+  padding: 0px 0px;
+  border: 0.1px solid red;
+  width: 210px;
+  height: 33px;
+  color: red;
+  text-align: center;
+  margin: 94px 0px;
+  cursor: pointer;
+}
+button#Contact {
+  display: block;
+  position: fixed;
+  left: 600px;
+  font-size: 20px;
+  font-family: serif;
+  padding: 0px 0px;
+  border: 0.1px solid red;
+  width: 210px;
+  height: 33px;
+  color: red;
+  text-align: center;
+  margin: 136px 0px;
+  cursor: pointer;
+}
+button#Offers {
+  display: block;
+  position: fixed;
+  left: 600px;
+  font-size: 20px;
+  font-family: serif;
+  color: red;
+  padding: 0px 0px;
+  border: 0.1px solid red;
+  width: 210px;
+  height: 33px;
+  text-align: center;
+  margin: 178px 0px;
+  cursor: pointer;
+}
