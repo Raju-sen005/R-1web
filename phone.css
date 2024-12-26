@@ -8,35 +8,35 @@ h3{
 button#Menu{
     display: block;
     position: relative;
-    left: 200px;
+    left: 161px;
     top: 17px;
     width: 170px;
 }
 button#Location{
     display: block;
     position: relative;
-    left: 200px;
+    left: 161px;
     top: -17px;
     width: 170px;
 }
 button#Services{
     display: block;
     position: relative;
-    left: 200px;
+    left: 161px;
     top: -94px;
     width: 170px;
 }
 button#Contact{
     display: block;
     position: relative;
-    left: 200px;
+    left: 161px;
     top: -214px;
     width: 170px;
 }
 button#Offers{
     display: block;
     position: relative;
-    left: 200px;
+    left: 161px;
     top: -374px;
     width: 170px;
 }
@@ -49,7 +49,7 @@ h2 {
     display: block;
     position: relative;
     top: 46px;
-    left: 125px;
+    left: 136px;
 }
 .item-price {
     display: block;
